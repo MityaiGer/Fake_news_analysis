@@ -15,7 +15,7 @@
 ## Как использовать
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL вашего репозитория]
+git clone https://github.com/MityaiGer/Fake_news_analysis
 ```
 
 2. Установите необходимые зависимости (если требуется)
@@ -25,10 +25,7 @@ git clone [URL вашего репозитория]
 jupyter notebook
 ```
 
-4. Откройте файл `Fake _news.ipynb` в браузере
-
-## Автор
-[Ваше имя]
+4. Откройте файл `Fake_news_analysis.ipynb` в браузере
 
 ## Лицензия
 MIT License 
